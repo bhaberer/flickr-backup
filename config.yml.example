@@ -1,0 +1,4 @@
+:api_key: "APIKEY"
+:shared_secret: "SECRET"
+:access_token: 'ACCESSTOKEN'
+:access_secret: 'ACCESSSECRET'
